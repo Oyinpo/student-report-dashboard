@@ -1,13 +1,13 @@
-Student Report Card Dashboard Analysis
+**Student Report Card Dashboard Analysis**
 
-Project Overview
+**Project Overview**
 
 This project presents an **interactive student report card dashboard** developed in Microsoft Excel using dynamic formulas, charts, KPI cards, automated grading logic, and student lookup functionality.
 
 The dashboard transforms raw student academic records into a **data-rich performance monitoring system** suitable for schools, tutorial centers, and educational administrators.
 
 
- Project Objectives
+ **Project Objectives**
 
 The main objective of this dashboard is to:
 
@@ -20,7 +20,7 @@ The main objective of this dashboard is to:
 
 
 
-Excel Functions & Features Used
+**Excel Functions & Features Used**
 
 Functions Applied
 
@@ -34,7 +34,7 @@ Functions Applied
 8. `VLOOKUP()`
 
 
-Excel Features Implemented
+**Excel Features Implemented**
 
 1. Data Validation (Dropdown Selection)
 2. Conditional Formatting
@@ -46,100 +46,109 @@ Excel Features Implemented
 8. Dashboard Layout Design
 
 
- Dashboard Analysis
+ **Dashboard Analysis**
 
-1. Academic Performance Monitoring
+1. *Academic Performance Monitoring*
 
 The dashboard automatically calculates each student’s:
 
-* Average score
-* Grade
-* Performance remark
-* Position/rank
+* Average score.
+* Grade.
+* Performance remark.
+* Position/rank.
+
+<img width="925" height="320" alt="Student Records Data Analysis" src="https://github.com/user-attachments/assets/dd8421df-c4c6-4f1b-8d7c-d81f53fc00c0" />
 
 This reduces manual computation errors and improves reporting efficiency.
 
 
-
-2. Student Performance Insights
+2. *Student Performance Insights*
 
 The dashboard enables administrators and teachers to quickly identify:
 
-* Top-performing students
-* Underperforming students
-* Subject strengths and weaknesses
-* Overall class performance trends
+* Top-performing students.
+* Underperforming students.
+* Subject strengths and weaknesses.
+* Overall class performance trends.
+  
+<img width="461" height="328" alt="Student Performance Dashboard" src="https://github.com/user-attachments/assets/07178247-6aa6-42dc-8da3-e14b30f0d888" />
 
----
-
-3. Interactive Student Lookup
+3. *Interactive Student Lookup*
 
 A dropdown-based student selection system allows users to:
 
-* Search individual students instantly
-* Display personal academic records dynamically
-* Generate instant report card summaries
+* Search individual students instantly.
+* Display personal academic records dynamically.
+* Generate instant report card summaries.
+
+<img width="297" height="329" alt="Student Report Card" src="https://github.com/user-attachments/assets/b9cc1d96-b85f-4654-ad14-3a9ce1c86819" />
 
 This improves usability and user interaction.
 
 
-4. KPI Performance Cards
+4. *KPI Performance Cards*
 
 The dashboard provides real-time indicators such as:
 
-* Total number of students
-* Class average
-* Highest average score
-* Lowest average score
+* Total number of students.
+* Class average.
+* Highest average score.
+* Lowest average score.
+
+<img width="461" height="328" alt="Student Performance Dashboard" src="https://github.com/user-attachments/assets/07a55c09-27dd-48f1-9976-0d3d3218089f" />
+
 
 These KPI cards support quick academic decision-making.
 
 
 
-5. Subject Performance Analysis
+5. *Subject Performance Analysis*
 
 Charts were used to visualize:
 
-* Subject average performance
-* Grade distribution
-* Overall academic trends
+* Subject average performance.
+* Grade distribution.
+* Overall academic trends.
+
+<img width="916" height="310" alt="Student Report Card Data Analysis" src="https://github.com/user-attachments/assets/e2fe1522-d557-426d-ac6c-827ed05d2b3c" />
+
 
 This helps identify subjects requiring improvement or intervention.
 
 
 
-Key Educational Insights
+**Key Educational Insights**
 
 Strong Areas
 
-* Automated result computation
-* Interactive report generation
-* Easy student tracking
-* Fast academic analysis
-* User-friendly dashboard structure
+* Automated result computation.
+* Interactive report generation.
+* Easy student tracking.
+* Fast academic analysis.
+* User-friendly dashboard structure.
 
 
-Areas for Improvement
+**Areas for Improvement**
 
-* Additional subjects can be integrated
-* Attendance analytics may be added
-* Teacher performance metrics can be included
-* Parent reporting section can be developed
+* Additional subjects can be integrated.
+* Attendance analytics may be added.
+* Teacher performance metrics can be included.
+* Parent reporting section can be developed.
 
 
 
-Recommendations
+**Recommendations**
 
 To improve the dashboard further:
 
-1. Add attendance tracking system
-2. Integrate term-by-term comparisons
-3. Include student behavioral assessment
-4. Add printable report card format
-5. Introduce Power BI integration for advanced analytics
+1. Add attendance tracking system.
+2. Integrate term-by-term comparisons.
+3. Include student behavioral assessment.
+4. Add printable report card format.
+5. Introduce Power BI integration for advanced analytics.
 
 
-Conclusion
+**Conclusion**
 
 The Student Report Card Dashboard successfully demonstrates how Microsoft Excel can be used as a powerful educational analytics tool.
 
